@@ -1,0 +1,31 @@
+{
+  "name": "copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-nexuslearn-exam-analyzer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-markdown": "9",
+    "react-router": "^7.6.3",
+    "react-router-dom": "^7.6.1",
+    "remark-gfm": "4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.17.2",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  },
+  "description": "<div align=\"center\"> <img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6\" /> </div>",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
